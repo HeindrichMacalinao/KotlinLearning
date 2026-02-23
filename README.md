@@ -5,7 +5,7 @@ This repository is a dedicated space for my journey learning the **Kotlin** prog
 ## 📌 Learning Goals
 * Master Kotlin syntax and modern coding patterns.
 * Practice **Object-Oriented Programming (OOP)**.
-* Utilize knowledge in making an android ad blocker app.
+* Utilize knowledge in making an Android ad blocker app.
 
 ## 🛠️ Setup
 * **IDE:** IntelliJ IDEA (Community Edition)
@@ -13,4 +13,4 @@ This repository is a dedicated space for my journey learning the **Kotlin** prog
 * **Version Control:** Git & GitHub
 
 ## 📂 Featured Project
-Check out my main project here: [adereze - Android Ad Blocker](https://github.com/HeindrichMacalinao/AdEreze)
+Check out my main project here: [AdEreze - Android Ad Blocker](https://github.com/HeindrichMacalinao/AdEreze)
