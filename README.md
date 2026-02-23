@@ -13,4 +13,4 @@ This repository is a dedicated space for my journey learning the **Kotlin** prog
 * **Version Control:** Git & GitHub
 
 ## 📂 Featured Project
-Check out my main project here: [AdEreze - Android Ad Blocker](https://github.com/HeindrichMacalinao/AdEreze)
+Check out our main project here: [AdEreze - Android Ad Blocker](https://github.com/HeindrichMacalinao/AdEreze)
