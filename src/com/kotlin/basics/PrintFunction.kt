@@ -2,5 +2,6 @@ package com.kotlin.basics
 
 fun main () {
     print("Heindrich Macalinao's ")
-    print("Kotlin Learning Journey")
+    print("Kotlin Learning Journey.")
+    print(" Goodluck to me!")
 }
